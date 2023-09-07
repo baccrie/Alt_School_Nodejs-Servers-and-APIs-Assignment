@@ -1,0 +1,16 @@
+{
+  "name": "api-server-assignment",
+  "version": "1.0.0",
+  "description": "An api server to manage inventories in a store",
+  "main": "api.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start":"nodemon api.js"
+  },
+  "keywords": [],
+  "author": "Bakare Rilwan",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
